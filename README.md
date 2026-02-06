@@ -1,5 +1,6 @@
 
 🚀 TechHerPath – Full-Stack CRUD Resource App
+
 📌 Project Overview
 
 TechHerPath is a full-stack CRUD web application that allows users to create, view, update, and delete learning resources.
@@ -13,7 +14,7 @@ Backend: Node.js, Express.js
 
 Database: SQL Server
 
-Tools: VS Code, GitHub, Postman
+Tools: VS Code, GitHub
 
 Architecture: RESTful API
 
@@ -34,11 +35,14 @@ Backend API connected to SQL Server
 Real database CRUD operations
 
 🔗 API Endpoints
+
 Method	Endpoint	Description
+
 GET	/api/resources	Fetch all resources
 POST	/api/resources	Add a new resource
 PUT	/api/resources/:id	Update a resource
 DELETE	/api/resources/:id	Delete a resource
+
 🧠 Key Learnings
 
 Building REST APIs using Express.js
